@@ -5,6 +5,7 @@ import About from './components/About';
 import Portfolio from './components/Portfolio.jsx';
 import './App.css';
 import Footer from './components/Footer';
+import Timeline from './components/Timeline';
 
 function App() {
 	return (
@@ -13,6 +14,7 @@ function App() {
 				<Header />
 				<About />
 				<Portfolio />
+				<Timeline />
 				<Footer />
 			</div>
 		</div>
