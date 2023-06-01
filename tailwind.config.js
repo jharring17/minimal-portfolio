@@ -1,5 +1,5 @@
-export const content = ['./src/**/*.{js,jsx,ts,tsx}'];
-export const theme = {
-	extend: {},
+module.exports = {
+	content: ['./index.html', './src/**/*.{jsx, js}'],
+	theme: {},
+	plugins: [],
 };
-export const plugins = [];

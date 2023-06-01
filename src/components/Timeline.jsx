@@ -6,7 +6,7 @@ function Timeline() {
 	return (
 		<div className="flex flex-col md:flex-row justify-center my-20">
 			<div className="w-full md:w-7/12">
-				<h3 className="font-medium text-3xl mt-6">Timeline</h3>
+				<h3 className="text-center font-medium text-3xl">Timeline</h3>
 				{timeline.map((item) => (
 					<TimelineItem
 						year={item.year}

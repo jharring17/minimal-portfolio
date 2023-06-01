@@ -5,7 +5,7 @@ import '../index.css';
 const About = () => {
 	return (
 		<section id="about">
-			<h3 className="font-medium text-3xl mt-6">A Little About Me</h3>
+			<h3 className="text-center font-medium text-3xl mt-12">A Little About Me</h3>
 			<p className="text-left text-semibold text-xl font-size-sm w-1/2 mx-auto mb-6">
 				Hi, I'm Jack! I'm a passionate and self-motivated computer science student. I'm
 				currently pursuing my undergraduate degree in Computer Science at Stevens Institute
@@ -15,7 +15,7 @@ const About = () => {
 				You can email me{' '}
 				<a
 					href="mailto:jackharrington1117@gmail.com"
-					className="font-bold text-teal-500 hover:underline"
+					className="font-bold text-purple-400 hover:underline"
 				>
 					here
 				</a>

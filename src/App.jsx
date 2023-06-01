@@ -9,7 +9,7 @@ import Timeline from './components/Timeline';
 
 function App() {
 	return (
-		<div className="bg-orange-50">
+		<div className="overflow-hidden bg-gradient-to-b from-white via-blue-200 via-sky-200 via-purple-200 to-indigo-300">
 			<div className="App">
 				<Header />
 				<About />

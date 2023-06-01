@@ -37,7 +37,7 @@ const timeline = [
 	{
 		year: '2016',
 		title: 'First Line of Code',
-		duration: 'My start',
+		duration: 'My Start',
 		details:
 			'I wrote my first line of code as a freshman in high school working through the Harvard CS50 program.',
 	},
