@@ -11,7 +11,7 @@ const Projects = () => {
 			<h2 className="text-center font-medium text-3xl mb-2 mt-12">My Projects</h2>
 			<div className="flex flex-col justify-center items-center">
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
-					<div className="bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
+					<div className="hover:opacity-75 hover:cursor-pointer bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
 						<a
 							href="https://github.com/rvaccone/CS-546-Final-Project"
 							target="_blank"
@@ -42,9 +42,9 @@ const Projects = () => {
 							</p>
 						</a>
 					</div>
-					<div className="bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
+					<div className="hover:opacity-75 hover:cursor-pointer bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
 						<a
-							href="https://github.com/jharring17/GEDCOM-group-project"
+							href="https://github.com/jharring17/minimal-portfolio"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="w-full h-full"
@@ -70,7 +70,7 @@ const Projects = () => {
 							</p>
 						</a>
 					</div>
-					<div className="bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
+					<div className="hover:opacity-75 hover:cursor-pointer bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
 						<a
 							href="https://github.com/jharring17/AlgorithmPractice"
 							target="_blank"
@@ -92,7 +92,7 @@ const Projects = () => {
 							</p>
 						</a>
 					</div>
-					<div className="bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
+					<div className="hover:opacity-75 hover:cursor-pointer bg-slate-200 hover:bg-slate-300 border border-solid rounded-lg border-2 border-gray-800 mb-4 shadow shadow-lg">
 						<a
 							href="https://github.com/jharring17/GEDCOM-group-project"
 							target="_blank"
