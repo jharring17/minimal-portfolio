@@ -10,7 +10,7 @@ import Coursework from './components/Coursework';
 
 function App() {
 	return (
-		<div className="overflow-hidden bg-gradient-to-b from-white via-blue-200 via-sky-200 to-purple-300">
+		<div className="overflow-hidden bg-gradient-to-b from-white via-blue-200 via-sky-200 to-blue-300">
 			<div className="App">
 				<Header />
 				<About />
